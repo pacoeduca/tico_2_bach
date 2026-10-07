@@ -256,19 +256,6 @@ def main():
     # print("Cinco es mayor que tres")
 
     # --------------------------------------------------------
-    # RETOS FINALES
-    # Escribe tú el código debajo de cada reto.
-    #
-    # RETO 1: Pide un número y di si es positivo, negativo o cero.
-    #
-    # RETO 2: Pide el precio de un producto. Si cuesta más de
-    #         50 euros, aplica un 10% de descuento y muestra
-    #         el precio final.
-    #
-    # RETO 3: Haz un mini-test: haz una pregunta, comprueba la
-    #         respuesta y di si es correcta o no. ¡Añade tres
-    #         preguntas y cuenta los aciertos!
-    # --------------------------------------------------------
 
 
 # ============================================================
